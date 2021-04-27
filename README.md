@@ -3,11 +3,14 @@
 Based on https://stackoverflow.com/questions/43483121/simulate-xbox-controller-input-with-python
 
 ### Steps:
-1. Install vJoy and config (http://vjoystick.sourceforge.net/site/)
+1) Install vJoy and config (http://vjoystick.sourceforge.net/site/)
+
 ![Configuration](img/config_vjoy.PNG)
-2. Create a project with PyCharm and install pyvJoy
-3. Test buttons ans joysticks in python terminal
-4. Open xbox360ce and config like see in image
+
+2) Create a project with PyCharm and install pyvJoy
+3) Test buttons ans joysticks in python terminal
+4) Open xbox360ce and config like see in image
+
 ![Configuration](img/config_xbox360ce.PNG)
 
 ### Purpose:
