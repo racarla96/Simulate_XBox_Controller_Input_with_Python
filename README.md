@@ -1,6 +1,6 @@
 # Simulate XBox Controller Input with Python
 
-# Exist and easy alternative to do this!
+# Exist and easy alternative to do this! (https://pypi.org/project/vgamepad/)
 
 Based on https://stackoverflow.com/questions/43483121/simulate-xbox-controller-input-with-python
 
